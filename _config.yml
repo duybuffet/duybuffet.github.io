@@ -1,0 +1,20 @@
+title:             Buffet Blog
+top_title:         Buffet
+email:             duy.hoaitang@gmail.com
+description:       All about the trivial stuffs in my life
+author:            Start Bootstrap
+baseurl:           ""
+url:               "http://duybuffet.github.io"
+
+# Social Profiles
+linkedin_username:  tang-hoai-duy
+github_username:   duybuffet
+facebook_username: duybuffet
+
+# Build settings
+markdown:          kramdown
+paginate:          10
+paginate_path:     "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
